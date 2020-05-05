@@ -2,7 +2,7 @@
 
 extern "C" void deleteConsonantsLettersFromString(string &s)
 {
-	string letters = "ÁÂÃÄÆÇÉÊËÌÍÏĞÑÒÔÕÖ×ØÙáâãäæçéêëìíïğñòôõö÷øùBCDFGHJKLMNPQRSTVWXYZbcdfghjklmnpqrstvwxyz";
+	string letters = "Ğ‘Ğ’Ğ“Ğ”Ğ–Ğ—ĞšĞ›ĞœĞĞŸĞ Ğ¡Ğ¢Ğ§Ğ©Ğ¨Ğ±Ğ²Ğ³Ğ´Ğ¶Ğ·ĞºĞ»Ğ¼Ğ½Ğ¿Ñ€ÑÑ‚Ñ‡Ñ‰ÑˆBCDFGHJKLMNPQRSTVWXYZbcdfghjklmnpqrstvwxyz";
 
 	for (int i = 0; i < s.size(); i++)
 		if (letters.find(s[i]) != string::npos)
