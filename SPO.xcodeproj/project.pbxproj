@@ -6,10 +6,15 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		9F67F8B62461DF4E00C3996C /* LabWork9.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = LabWork9.pdf; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		9F67F89D2461DD0F00C3996C = {
 			isa = PBXGroup;
 			children = (
+				9F67F8B62461DF4E00C3996C /* LabWork9.pdf */,
 			);
 			sourceTree = "<group>";
 		};
