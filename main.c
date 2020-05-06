@@ -1,5 +1,7 @@
+#include <stdio.h>
+
 int main()
 {
-    directoryRemover("/home/danik/folder");
+    directoryRemover("/home/vlad/folder");
     return 0;
 }
